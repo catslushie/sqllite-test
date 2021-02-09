@@ -5,7 +5,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-this project doesnt do much, it just outputs names from the database i created to a message box, however its a good example of querying and conenction strings?
+this project doesnt do much, it just outputs names from the database i created to a message box, however its a good example of querying and connection strings?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
